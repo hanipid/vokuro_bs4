@@ -13,21 +13,23 @@
 
 <div class="row">
 
-    <div class="span4">
-      <div class="well">
-      	<h3>Awesome Section</h3>
-      	<p>Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-      	<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui.</p>
+    <div class="col-md-4">
+      <div class="card bg-primary text-light">
+      	<div class="card-body">
+          <h3 class="card-title">Awesome Section</h3> 
+          <p class="card-text">Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+          <p class="card-text">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui.</p> 
+        </div>
       </div>
     </div>
 
-    <div class="span4">
+    <div class="col-md-4">
       <h3>Important Stuff</h3>
       <p>Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
       <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui.</p>
     </div>
 
-    <div class="span4">
+    <div class="col-md-4">
       <h3>Example addresses</h3>
       <address>
         <strong>Vokuri, Inc.</strong><br>
