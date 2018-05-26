@@ -4,8 +4,7 @@
 		<title>Welcome to Vökuró</title>
 	  <!-- Custom fonts for this template-->
 	  {{ stylesheet_link('css/font-awesome.css') }}
-		<!-- <link href="https://bootswatch.com/4/yeti/bootstrap.min.css" rel="stylesheet">		 -->
-		<link href="http://localhost:3000/css/boyah.css" rel="stylesheet">		
+		<link href="https://bootswatch.com/4/yeti/bootstrap.min.css" rel="stylesheet">		
 		{{ stylesheet_link('css/style.css') }}
 	</head>
 	<body>
